@@ -10,6 +10,7 @@ that prints greets the user in different languages and outputs the text in diffe
 We will display use Maven to build the application, manage resources and manage dependencies.
 
 ### 1. Download the repository
+
 1. Download this repository's zip file and extract it to a folder on your computer.
 2. Open the folder in IntelliJ IDEA.
 3. Run the org.example.Main class to verify that the application runs. It should print `Hello World!` to the console.
@@ -19,8 +20,7 @@ We will display use Maven to build the application, manage resources and manage 
 7. Create a new repository on GitHub and follow the instructions on Github to link it to your local repository.
 8. Push your local repository to the remote repository on Github.
 
-#### 1.1 Build the application
-
+#### 1.1 Build the applicationnnn
 To build the application we need to run the `build` task.
 Run the following command in the terminal to build the application:
 
