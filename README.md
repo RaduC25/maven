@@ -11,6 +11,11 @@ We will display use Maven to build the application, manage resources and manage 
 
 ### 1. Download the repository
 
+
+
+
+
+yvtc
 1. Download this repository's zip file and extract it to a folder on your computer.
 2. Open the folder in IntelliJ IDEA.
 3. Run the org.example.Main class to verify that the application runs. It should print `Hello World!` to the console.
